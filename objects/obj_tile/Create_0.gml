@@ -1,0 +1,30 @@
+/// @description Insert description here
+// You can write your code in this editor
+image_index=0;
+image_speed=0;
+tile_type=0;
+refresh_sprite_from_grid=false;
+structure_count=0;
+structure_highlight=0;
+item_count=0;
+item_highlight=0;
+structure[0]=0
+structure[1]=0
+structure[2]=0
+structure[3]=0
+structure[4]=0
+structure[5]=0
+structure[6]=0
+structure[7]=0
+sprite=noone
+sprite_ind=0;
+x_scale=1;
+y_scale=1;
+item[0]=0
+item[1]=0
+item[2]=0
+item[3]=0
+item[4]=0
+item[5]=0
+item[6]=0
+item[7]=0
